@@ -1,0 +1,14 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "A functional on-line code environment for development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "Hungrated",
+  "license": "MIT"
+}
